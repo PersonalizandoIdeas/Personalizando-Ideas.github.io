@@ -1,0 +1,88 @@
+<html>
+    <head>
+	    <title>Personalizando ideas-contacto</title>
+		<link rel="shortcut icon" href="logo.jpg">
+		<link rel="stylesheet" href="Estilo.css">
+	</head>
+    <body>
+		<div class="div1">
+	    <img src="logo.jpg" class="tam">
+		<h1 id="fuente-chellin">
+			Contacto
+			</font>
+		</h1>
+		</div>
+        <hr>
+		<div class="div7">
+		    <center>
+			<form>	
+				<table class="table3">
+					<tr>
+						<th>
+						<label>Nombre:</label>
+							<input type="text" size="50" name="nombre" id="nombre"></input>
+						</th>
+					</tr>
+					<tr>
+						<th>
+						<label>Asunto:</label>
+							<input type="text" size="20" name="nombre" id="asunto"></input>
+						</th>
+					</tr>
+					<tr>
+						<th>
+						<label>Correo:</label>
+							<input type="text" size="50" name="correo" id="correo"></input>
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<label>Mensaje:</label>
+							<textarea rows="10" cols="30" name="mensaje" id="mensaje">
+							</textarea>
+					<tr>
+						<td>
+							<input type="submit" value="enviar"><input type="reset">
+						</td>
+					</tr>
+				</table>
+			</form>
+		</center>
+		</div>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d353.81214934652!2d-116.9099196099245!3d32.47142384742304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d93923652fb489%3A0x2e9daa4162597031!2sLuis%20Rocha%20Monte%20Alban%208204%2C%20Ca%C3%B1on%20de%20la%20Raza%2C%2022224%20Tijuana%2C%20B.C.!5e0!3m2!1ses!2smx!4v1649186829860!5m2!1ses!2smx" width="1800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
+        <div class="contenedor">
+			
+				<div class="div9"><A href="Principal.html"><img src=icono.png class="tam3"></A>
+				    <font><center>
+					Principal
+					</font></center></div>
+				<div class="div10"><A href="historia.html"><img src=icono2.png class="tam3"></A>
+				    <font><center>
+					Historia 
+					</font></center></div>	
+				<div class="div11"><td><A href="Producto.html"><img src=camisa2.png class="tam3"></A>
+				    <font><center>
+					Producto
+					</font></center></div>
+				<div class="div12"><A href="contacto.html"><img src=icono4.png class="tam3"></A>
+				    <font><center>
+					Contacto 
+					</font></center></div>
+					
+		</div>
+	
+		
+		
+		<div class="div4">
+		<p id="fuente-chellin"> 
+		    <font>
+			&copy; 2022. Derechos reservados<br>
+			Desarrollado: Rodriguez Perez Uziel Abizai
+			Matricula: 01906006
+			Grupo: 605 <br>
+			Plantel Nueva Tijuana
+			</font>
+			</p>
+		</div>
+		</body>	
+	</html>

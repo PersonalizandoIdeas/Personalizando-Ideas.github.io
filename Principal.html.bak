@@ -1,0 +1,64 @@
+ <html>
+    <head>
+	    <title> Personalizando ideas</title>
+		<link rel="shortcut icon" href="logo.jpg">
+		<link rel="stylesheet" href="Estilo.css">
+		<link rel="preconectar" href="https://fonts.googleapis.com">
+        <link rel="preconectar" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https: //fonts.googleapis.com/css2? family= Pacífico & display=swap" rel="hoja de estilo">
+		<id="fuente-google">
+	</head>
+    <body>  
+	<div class="div1">
+	<img src=logo.jpg width="250" height="150">
+	<h1   id="fuente-Black">
+		El toque de creatividad a tu imaginacion
+	</h1>
+	</div>
+		<hr>
+		<div class="div2">
+		<marquee behavior-älternate">
+		<img src=camisas.jpg width="200" height="180">
+		<img src=sueter.jpg width="200" height="180">
+		<img src=gorras.jpg width="200" height="180">
+		<img src=tazas.jpg width="200" height="180">
+		<img src=tarjetas.jpg width="200" height="180">
+		
+		</marquee>
+		</div>
+		<div class="div3">
+		 <table>
+		    <tr>
+				<td><A href="Principal.html"><img src=icono.png class="tam3"></A>
+				    <font><center>
+					Principal
+					</font></td></center>	
+				<td><A href="historia.html"><img src=icono2.png class="tam3"></A>
+				    <font><center>
+					Historia 
+					</font></td></center>	
+				<td><A href="Producto.html"><img src=camisa2.png class="tam3"></A>
+				    <font><center>
+					Producto
+					</font></td></center>
+				<td><A href="contacto.html"><img src=icono4.png class="tam3"></A>
+				    <font><center>
+					Contacto 
+					</font></td></center>
+					</tr>
+		</div>
+		</table>
+		<div class="div4">
+		<p id="fuente-black"> 
+		    <font>
+			&copy; 2022. Derechos reservados<br>
+			Desarrollado: Rodriguez Perez Uziel Abizai
+			Matricula: 01906006
+			Grupo: 605 <br>
+			Plantel Nueva Tijuana
+			</font>
+			</p>
+		</div>
+		</body>	
+	</html>
+	

@@ -1,0 +1,98 @@
+<html>
+    <head>
+	    <title> Personalizando ideas-Productos</title>
+		<link rel="shortcut icon" href="logo.jpg">
+		<link rel="stylesheet" href="Estilo.css">
+	</head>
+    <body> 
+	<div class="div1"
+	<img src=logo.jpg class="tam">
+		<h1>
+			<font>
+			Productos
+			</font>
+		</h1>
+	</div>
+	<hr>
+     <body>
+		
+		 
+		<div class="div6"> 
+		
+			<div class="caja">
+               
+                 <img src=camisa1.jpg width="200" height="200" class="tam4"></td>
+				 
+			</div>
+			<div class="caja">
+               
+                 <img src=camisa3.jpg width="200" height="200" class="tam4"></td>
+			</div>
+			
+			
+			<div class="caja">
+               
+                 <img src=camisa4.jpg width="200" height="200" class="tam4"></td>
+				 
+			</div>
+			<div class="caja">
+               
+                 <img src=gorras.jpg width="200" height="200" class="tam4"></td>
+				 
+			</div>
+			</div>
+			 <tr class="table2">
+				 <td class="table2"> Tazas</td>
+                 <td class="table2"> <img src=tazas.jpg class="tam4"></td>
+				 <td class="table2">  120$ </td>
+			 </tr class="table2">
+			 <td class="table2"> Sueter</td>
+                 <td class="table2"> <img src=sueter.jpg class="tam4"></td>
+				 <td class="table2">  300$ </td>
+		     </tr>
+			 <tr class="table2">
+				 <td class="table2"> Gorras</td>
+                 <td class="table2"> <img src=gorras.jpg class="tam4"></td>
+				 <td class="table2">  200$ </td>
+			 </tr>
+		 	
+			</div>
+			
+		 <div class="div3">
+		 <table>
+		    <tr>
+				<td><A href="Principal.html"><img src=icono.png class="tam3"></A>
+				    <font><center>
+					Principal
+					</font></td></center>	
+				<td><A href="historia.html"><img src=icono2.png class="tam3"></A>
+				    <font><center>
+					Historia 
+					</font></td></center>	
+				<td><A href="Producto.html"><img src=camisa2.png class="tam3"></A>
+				    <font><center>
+					Producto
+					</font></td></center>
+				<td><A href="contacto.html"><img src=icono4.png class="tam3"></A>
+				    <font><center>
+					Contacto 
+					</font></td></center>
+					</tr>
+		</div>
+		</table>
+		<div class="div4">
+		<p> 
+		    <font>
+			&copy; 2022. Derechos reservados<br>
+			Desarrollado: Rodriguez Perez Uziel Abizai
+			Matricula: 01906006
+			Grupo: 605 <br>
+			Plantel Nueva Tijuana
+			</font>
+			</p>
+		</div>
+		</body>	
+	</html>
+	
+			
+			
